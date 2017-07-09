@@ -3,7 +3,7 @@ title: Hello World
 date: 2017-02-19 09:55:37
 comments: true
 categories:
-	- LifeStyle
+- Tech
 tags:
 - PS3
 - Games
